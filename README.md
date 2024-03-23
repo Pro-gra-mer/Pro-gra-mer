@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m currently learning FrontEnd Web Development with React, also Git and GitHub
+I´m currently learning Web Development.
 
 <!--
 **Pro-gra-mer/Pro-gra-mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
