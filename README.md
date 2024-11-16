@@ -9,7 +9,7 @@ Soy un desarrolladora apasionada por el desarrollo web y las tecnologías modern
 
 
 ## 📂 Proyecto Destacado
-- [📦 Tienda Online](https://github.com/Pro-gra-mer/WebPersonal): Mi sitio personal desarrollado con Angula, Bootstrap, Spring Boot y MySql.
+- [📦 Portfolio ](https://github.com/Pro-gra-mer/WebPersonal): Mi sitio personal desarrollado con Angula, Bootstrap, Spring Boot y MySql.
 
 
 ## 📫 Contáctame
