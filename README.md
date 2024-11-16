@@ -1,17 +1,19 @@
-### Hi there 👋
-I´m currently learning Web Development.
+# 👋 ¡Hola! Soy Rebeca Pérez
 
-<!--
-**Pro-gra-mer/Pro-gra-mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrolladora apasionada por el desarrollo web y las tecnologías modernas. Me encanta aprender y crear soluciones que impacten.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Lenguajes**: JavaScript y Java
+- **Frontend**: React, Angular, HTML5, CSS3
+- **Backend**: Node.js, Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Proyecto Destacado
+- [📦 Tienda Online](https://github.com/Pro-gra-mer/WebPersonal): Mi sitio personal desarrollado con Angula, Bootstrap, Spring Boot y MySql.
+
+
+## 📫 Contáctame
+- 💼 [LinkedIn](www.linkedin.com/in/rebeca-pérez-2a26772b7)
+
+
+
