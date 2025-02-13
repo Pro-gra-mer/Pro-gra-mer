@@ -25,7 +25,9 @@ Soy desarrolladora web con una historia de transformación y pasión por la tecn
 
 
 ## 📫 Contáctame
-- 💼 [LinkedIn](www.linkedin.com/in/rebeca-pérez-2a26772b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rebeca-pérez-2a26772b7)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=flat&logo=google-chrome)](https://github.com/Pro-gra-mer/WebPersonal)
+
 
 
 
