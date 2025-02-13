@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rebeca Pérez
 
-Soy una desarrolladora apasionada por el desarrollo web y las tecnologías modernas. Me encanta aprender y crear soluciones que impacten.
+Soy desarrolladora web con una historia de transformación y pasión por la tecnología.
 
 ## 🚀 Habilidades
 
