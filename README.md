@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rebeca Pérez
+# 👋 ¡Bienvenido/a a mi github!
 
 Soy desarrolladora web con una historia de transformación y pasión por la tecnología.
 
